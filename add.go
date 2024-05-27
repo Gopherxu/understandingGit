@@ -7,8 +7,8 @@ func Add(num1 int, num2 int){
 }
 func main(){
 	
-	var number1 int = 10
-	var number2 int = 5
+	var number1 int = 12
+	var number2 int = 6
 	Add(number1,number2)
 
 }
